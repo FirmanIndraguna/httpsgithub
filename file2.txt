@@ -1,5 +1,8 @@
-<<<<<<< Updated upstream
+
 afdfdafggjghj
-=======
+
 test
->>>>>>> Stashed changes
+
+tambah isi
+
+Testosteron
